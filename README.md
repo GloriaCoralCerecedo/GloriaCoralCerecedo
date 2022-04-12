@@ -1,11 +1,11 @@
-# ¡Hola!, me llamo Gloria Maria Coral Cerecedo
+### ¡Hola!, me llamo Gloria Maria Coral Cerecedo
 
-## Acerca de mi
+### Acerca de mi
 
 - Nací en la ciudad de Mérida, Yucatán, México.
 - Actualmente vivo en Chetumal, Quintana Roo, México.
 
-## Acerca de mis estudios
+### Acerca de mis estudios
 
 - Estudie la carrera Técnica de **Programación** en el ***CBTIS 253 "Miguel Hidalgo y costilla"***.
 - Estudie la carrera de **Ingeniería en Tecnologías de la Información y Comunicaciones en el Instituto** en el ***Instituto Tecnológico de Chetumal***.
