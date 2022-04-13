@@ -8,7 +8,7 @@
 ### Acerca de mis estudios
 
 - Estudie la carrera Técnica de **Programación** en el ***CBTIS 253 "Miguel Hidalgo y costilla"***.
-- Estudie la carrera de **Ingeniería en Tecnologías de la Información y Comunicaciones en el Instituto** en el ***Instituto Tecnológico de Chetumal***.
+- Estudie la carrera de **Ingeniería en Tecnologías de la Información y Comunicaciones en el Instituto** en el ***Instituto Tecnológico de Chetumal***. Con especialidad en **Mercadotecnia digital**
 
 #
 
