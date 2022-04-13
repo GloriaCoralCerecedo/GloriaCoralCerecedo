@@ -12,10 +12,7 @@
 
 #
 
-- 📫 Cómo contactarme: 
-  - Facebook: Gloria Coral Cerecedo
-  - Instagram: @gloria_hoji
-  - Twitter: @Gloria210399
+- 📫 Cómo contactarme: ![LinkedIn](https://www.linkedin.com/in/gloriacoralcerecedo/)
  
  - 😄 Pronombres: She/Her
 
