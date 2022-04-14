@@ -12,7 +12,7 @@
 
 #
 
-- 📫 Cómo contactarme: ![LinkedIn](https://www.linkedin.com/in/gloriacoralcerecedo/)
+- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/gloriacoralcerecedo/)
  
  - 😄 Pronombres: She/Her
 
